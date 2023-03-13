@@ -13,7 +13,7 @@ I am a Ph.D. candidate at the University of Barcelona with focus on advanced spe
 PV materials and devices with ML applications. I am fascinated on the integration of AI and ML into materials 
 engineering and fundamental research, and how this tools can improve our understanding of this strange world 
 we live in. Other professional interests include bifacial PV technology, soiling and degradation of PV devices,
-research acceleration through AI adn ML, and ML explainability. I am a strong believer and advocate for open 
+research acceleration through AI and ML, and ML explainability. I am a strong believer and advocate for open 
 source and open access in science and knowledge. More information about me and all the means for contact on 
 the links above.
 
