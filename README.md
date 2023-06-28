@@ -9,20 +9,19 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=enricgrau.enricgrau)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-profile-brown?logo=stackoverflow&logoWidth=18&logoColor=white)](https://stackoverflow.com/users/2898619/enric-grau-luque)
 
-I am a Ph.D. candidate at the University of Barcelona with focus on advanced spectroscopic characterization of 
-PV materials and devices with ML applications. I am fascinated on the integration of AI and ML into materials 
-engineering and fundamental research, and how this tools can improve our understanding of this strange world 
+I am a PhD candidate at the University of Barcelona with focus on advanced spectroscopic characterization of 
+PV materials and devices with ML and XAI applications. I am fascinated by the integration of AI and ML into materials 
+engineering and fundamental research, and how these tools can improve our understanding of this strange world 
 we live in. Other professional interests include bifacial PV technology, soiling and degradation of PV devices,
-research acceleration through AI and ML, and ML explainability. I am a strong believer and advocate for open 
-source and open access in science and knowledge. More information about me and all the means for contact on 
-the links above.
+and research acceleration through AI and ML. I am a strong believer and advocate for open source and open access to
+science and knowledge. More information about me and all the means for contact in the links above.
 
 ---
 
 ### Open-source Projects
 
 - **[spectrapepper](https://github.com/spectrapepper/spectrapepper):** A Python library for advanced analysis of spectroscopic data.
-- **[pudu](https://github.com/pudu-py/pudu):** A Python package for Linear Importance Gradient of machine learning algorithms.
+- **[pudu](https://github.com/pudu-py/pudu):** Python library for generalized and agnostic feature selection and explainability of ML problems.
 
 ---
 
