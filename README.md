@@ -8,11 +8,12 @@
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-profile-brown?logo=stackoverflow&logoWidth=18&logoColor=white)](https://stackoverflow.com/users/2898619/enric-grau-luque)
 
 I am a PhD candidate at the University of Barcelona with focus on advanced spectroscopic characterization of 
-PV materials and devices with ML and XAI applications. I am fascinated by the integration of AI and ML into materials 
+PV materials and devices with ML and XAI. I am fascinated by the integration of AI and ML into materials 
 engineering and fundamental research, and how these tools can improve our understanding of this strange world 
 we live in. Other professional interests include bifacial PV technology, soiling and degradation of PV devices,
 and research acceleration through AI and ML. I am a strong believer and advocate for open source and open access to
-science and knowledge. More information about me and all the means for contact in the links above.
+science and knowledge. For the full list of publications and conferences please check my CV in the link above. For
+more information about me and means for contact please check the links above.
 
 ---
 
