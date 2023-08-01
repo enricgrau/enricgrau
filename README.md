@@ -1,11 +1,9 @@
 ## Enric Tomás Grau-Luque
 
 [![GitHub Badge](https://img.shields.io/github/followers/enricgrau?style=social)](https://github.com/enricgrau?tab=followers)
-[![Twitter Badge](https://img.shields.io/twitter/follow/egrau?style=social)](https://twitter.com/egrau)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=aVFkSMIAAAAJ&hl=en)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/enric-g-0407a4139/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)]()
-[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/enricgrau?new=1)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=enricgrau.enricgrau)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-profile-brown?logo=stackoverflow&logoWidth=18&logoColor=white)](https://stackoverflow.com/users/2898619/enric-grau-luque)
 
