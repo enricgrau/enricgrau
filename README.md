@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/enricgrau?style=social)](https://github.com/enricgrau?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=aVFkSMIAAAAJ&hl=en)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/enric-g-0407a4139/)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)]()
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1QF68CPcRuVc3UQuas2pC0HexDU_AUE4A/view?usp=drive_link)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=enricgrau.enricgrau)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-profile-brown?logo=stackoverflow&logoWidth=18&logoColor=white)](https://stackoverflow.com/users/2898619/enric-grau-luque)
 
