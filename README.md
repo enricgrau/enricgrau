@@ -12,8 +12,8 @@ PV materials and devices with ML and XAI. I am fascinated by the integration of 
 engineering and fundamental research, and how these tools can improve our understanding of this strange world 
 we live in. Other professional interests include bifacial PV technology, soiling and degradation of PV devices,
 and research acceleration through AI and ML. I am a strong believer and advocate for open source and open access to
-science and knowledge. For the full list of publications and conferences please check my CV in the link above. For
-more information about me and means for contact please check the links above.
+science and knowledge. For more information about me, means of contact, full list of publications and conferences
+please check my CV and links above.
 
 ---
 
