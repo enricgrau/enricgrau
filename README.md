@@ -6,6 +6,7 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1QF68CPcRuVc3UQuas2pC0HexDU_AUE4A/view?usp=drive_link)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=enricgrau.enricgrau)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-profile-brown?logo=stackoverflow&logoWidth=18&logoColor=white)](https://stackoverflow.com/users/2898619/enric-grau-luque)
+![](https://hit.yhype.me/github/profile?user_id=5034365)
 
 I am a PhD candidate at the University of Barcelona with focus on advanced spectroscopic characterization of 
 PV materials and devices with ML and XAI. I am fascinated by the integration of AI and ML into materials 
