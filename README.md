@@ -7,6 +7,8 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=enricgrau.enricgrau)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-profile-brown?logo=stackoverflow&logoWidth=18&logoColor=white)](https://stackoverflow.com/users/2898619/enric-grau-luque)
 ![](https://hit.yhype.me/github/profile?user_id=5034365)
+[![BookBadge](https://img.shields.io/badge/My%20book%20-%20purple)](https://www.amazon.es/Inteligencia-artificial-aprendizaje-profundo-polillas/dp/B0D3JBTV32/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NYPHIGB9TCCE&dib=eyJ2IjoiMSJ9.eSvf4tf-Lpbc_HwmqWJvsItUzT_nb8OcV46u76JBzCnGjHj071QN20LucGBJIEps.F0hYOHPOg5hqiHzEcGNIhfS-dB1Vr-cXTmTU27wuTpk&dib_tag=se&keywords=enric+grau&qid=1717431744&sprefix=enric+grau%2Caps%2C144&sr=8-1)
+
 
 I hold a PhD from the U. of Barcelona on advanced spectroscopic characterization of PV materials and devices with ML and XAI. 
 I am fascinated by the integration of AI and ML into materials engineering and fundamental research, and how these tools
