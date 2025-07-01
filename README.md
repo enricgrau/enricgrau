@@ -10,12 +10,12 @@
 [![BookBadge](https://img.shields.io/badge/My%20book%20-%20purple)](https://www.amazon.es/Inteligencia-artificial-aprendizaje-profundo-polillas/dp/B0D3JBTV32/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NYPHIGB9TCCE&dib=eyJ2IjoiMSJ9.eSvf4tf-Lpbc_HwmqWJvsItUzT_nb8OcV46u76JBzCnGjHj071QN20LucGBJIEps.F0hYOHPOg5hqiHzEcGNIhfS-dB1Vr-cXTmTU27wuTpk&dib_tag=se&keywords=enric+grau&qid=1717431744&sprefix=enric+grau%2Caps%2C144&sr=8-1)
 
 
-I hold a PhD from the U. of Barcelona on advanced spectroscopic characterization of PV materials and devices with ML and XAI. 
+I hold a Ph.D. from the Universitat de Barcelona ono Engineering and Applyied Sciences. My thesis explores advanced spectroscopic characterization of PV materials and devices with ML and XAI. 
 I am fascinated by the integration of AI and ML into materials engineering and fundamental research, and how these tools
-can improve our understanding of this strange world we live in. Other professional interests include bifacial PV technology,
+can improve our understanding of this strange world we live in. Other professional interests include PV technology,
 soiling and degradation of PV devices, and research acceleration through AI and ML. I am a strong believer and advocate
 for open source and open access to science and knowledge. For more information about me, means of contact, full list of
-publications and conferences please check my CV and links above.
+publications and conferences please check the links above.
 
 ---
 
