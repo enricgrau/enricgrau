@@ -20,7 +20,7 @@ publications and conferences please check the links above.
 ---
 
 ### Open-source Projects
-
+- **[datadocket](https://github.com/enricgrau/datadocket):** A Python library for loading, saving, and manipulating files.
 - **[spectrapepper](https://github.com/spectrapepper/spectrapepper):** A Python library for advanced analysis of spectroscopic data.
 - **[pudu](https://github.com/pudu-py/pudu):** Python library for generalized and agnostic feature selection and explainability of ML problems.
 
